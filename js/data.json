@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1123,
+    "name": "proceso1",
+    "estado": "terminado"
+  },
+  {
+    "id": 1234,
+    "name": "proceso2",
+    "estado": "terminado"
+  },
+  {
+    "id": 12356,
+    "name": "Esta es una prueba para ver que tanto es la capacidad de los cuadros cuadros cuadros cuadros cuadros",
+    "estado": "actual"
+    
+  },
+  {
+    "id": 12331,
+    "name": "proceso4",
+    "estado": "falta"
+    
+  },
+  {
+    "id": 13134,
+    "name": "proceso5",
+    "estado": "falta"
+    
+  }
+]
